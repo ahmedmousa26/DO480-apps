@@ -5,7 +5,7 @@ metadata:
   labels:
     app: todonodejs
     name: frontend
-  namespace: gitops-test
+  namespace: mysql
 spec:
   replicas: 2
   selector:
